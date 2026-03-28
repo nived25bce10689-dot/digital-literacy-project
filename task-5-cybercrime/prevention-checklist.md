@@ -26,6 +26,6 @@
 
 If you face fraud, harassment, or any cybercrime:
 
-* Report online: National Cyber Crime Portal → https://cybercrime.gov.in
+* Report online: National Cyber Crime Portal = https://cybercrime.gov.in
 * Call helpline: 1930
 
